@@ -1,0 +1,11 @@
+
+U	java:S106L"9Replace this use of System.out or System.err by a logger.(€ÃÁë8¶Š£ÖÆ.
+U	java:S106N"9Replace this use of System.out or System.err by a logger.(¿ŞŠÃ8£Ï£ÖÆ.
+m
+java:S1192"PDefine a constant instead of duplicating this literal "deposito incial" 3 times.(Ë¯æñ8£¬ïÕÆ.
+U	java:S106M"9Replace this use of System.out or System.err by a logger.(ˆñº¢8£Ï£ÖÆ.
+Q
+java:S1066+"/Merge this if statement with the enclosing one.(ùìÛÌşÿÿÿÿ8¶öıÕÆ.
+O
+java:S1172#"-Remove this unused method parameter "numero".(Ş¨“Øøÿÿÿÿ8áôóÕÆ.
+Z	java:S106g"9Replace this use of System.out or System.err by a logger.(‚øÇ›ùÿÿÿÿ8ÇàÖÆ.

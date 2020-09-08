@@ -1,0 +1,14 @@
+
+u	java:S116
+"TRename this field "endereÃ§o" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıº¦Éÿÿÿÿÿ8çùäÏÆ.
+v	java:S116	"ZRename this field "identificaÃ§Ã£o" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï•˜İ8°¥äÏÆ.
+q
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(ùûƒÚ8´£áÏÆ.
+m	java:S116"QRename this field "peÃ§as" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş£Öş8¼ÈŞÏÆ.
+O
+java:S1068
+"-Remove this unused "endereÃ§o" private field.(ıº¦Éÿÿÿÿÿ8çùäÏÆ.
+R
+java:S1068"0Remove this unused "proprietario" private field.(Éš—úúÿÿÿÿ8°¥äÏÆ.
+P
+java:S1068	"3Remove this unused "identificaÃ§Ã£o" private field.(ï•˜İ8°¥äÏÆ.
