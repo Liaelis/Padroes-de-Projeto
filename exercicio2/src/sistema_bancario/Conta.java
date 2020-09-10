@@ -24,16 +24,13 @@ public abstract class Conta {
     public abstract Double getIRDevido();
 
     public List<Movimentação> getMovimentaçãos() {
-        List<Movimentação> movCopy = new ArrayList<>(movimentaçãos.size());
-        System.arraycopy(movimentaçãos,0,movCopy,0,movimentaçãos.size());
-        return movCopy;
+
+        return movimentaçãos;
     }
 
     public void adicionaMovimentação( Movimentação movimentação){
-        List<Movimentação> movCopy = new ArrayList<>(movimentaçãos.size());
-        System.arraycopy(movimentaçãos,0,movCopy,0,movimentaçãos.size());
-        movCopy.add(movimentação);
-        this.movimentaçãos = movCopy;
+
+        this.movimentaçãos.add(movimentação);
         this.saldo += movimentação.getValor();
     }
 
