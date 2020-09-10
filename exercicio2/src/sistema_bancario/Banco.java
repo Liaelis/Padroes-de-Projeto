@@ -1,6 +1,8 @@
 package sistema_bancario;
 
 
+import exercicio6.AnnotExemplo;
+
 import java.util.HashMap;
 
 import java.util.Map;
@@ -35,6 +37,7 @@ public class Banco {
         contas.put(numero, conta);
     }
 
+    @AnnotExemplo(nome = "excluir")
     public Conta excluirConta(Long numero) {
         return contas.remove(numero);
 
