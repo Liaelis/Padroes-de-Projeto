@@ -1,0 +1,7 @@
+
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š±êûÿÿÿÿ
+n	java:S116	"ZRename this field "movimentaÃ§Ã£os" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ğ„S
+t	java:S115&"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(İ÷ÿÇúÿÿÿÿ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œß–Øıÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š±êûÿÿÿÿ
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”âôûÿÿÿÿ8—õŸëË.

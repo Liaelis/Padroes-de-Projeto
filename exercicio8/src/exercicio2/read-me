@@ -1,0 +1,21 @@
+ Aplicação de Padrões Básicos
+
+ -> Abstract Parent Class
+ Implementada na classe Conta,
+ definindo atributos de uma conta,
+ exetendida pelos diferentes tipos de contas.
+
+ -> Accessor Methods
+ Implementado em todas as clases,
+ o uso de metodos getters e setters
+
+ -> Imutable Object
+ implementaod pela classe Movimentação
+ os atributos são definidos com final
+ e a classe não possui implementação
+ de metodo setter.
+
+ ->Constant Data Manager
+ utilizado pelas Classe movimentação,
+ fundo de renda e conta, com implementação
+ de enum, com constantes que definem tipos.

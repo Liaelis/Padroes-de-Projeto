@@ -1,0 +1,10 @@
+
+j
+java:S3252"HUse static access with "java.awt.event.InputEvent" for "CTRL_DOWN_MASK".(¾›ô¦ıÿÿÿÿ8ÅÓúÇÊ.
+m
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(²ââª8åˆ¶ÈÊ.
+e
+java:S3252"HUse static access with "java.awt.event.InputEvent" for "CTRL_DOWN_MASK".(“Äùå8µ¥õÇÊ.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ª½Øßûÿÿÿÿ
+r
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(İ“’øûÿÿÿÿ8ûÊÃÇÊ.

@@ -1,0 +1,15 @@
+Utilização de Padrões Básicos
+
+->Interface provedora de serviço
+Forma3D (implementada por classe: Imovel e Peça)
+FormaGeometrica(implementada por classe: Imovel, Peça, Losango, Circulo, Quadrado, Retangulo e Triangulo)
+
+-> Accessor Methods
+todas as classes utilizam
+controladores de acesso Getters
+e Setters
+
+-> Constant Data Manager
+Classe Imovel implementa
+um enum com constantes de tipo
+de uso.

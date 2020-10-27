@@ -1,0 +1,10 @@
+
+\
+java:S2274!":Remove this call to "wait" or move it into a "while" loop.(ƒÛÇııÿÿÿÿ8ÂØ™É.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“ßåÖúÿÿÿÿ
+R
+java:S2446/"0"notify" may not wake up the appropriate thread.(ëò‚ÿúÿÿÿÿ8´É.
+S
+java:S1128"1Remove this unused import 'java.util.Collection'.(¹ÉĞšùÿÿÿÿ8ÜÑ‹É.
+E
+java:S2175*"#A "List<T>" cannot contain a "int".(ö‡¢ÿÿÿÿÿ8¥š¢É.

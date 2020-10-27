@@ -1,0 +1,12 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(öÑ‚¦8Ú¬ÉÊ.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ó¨ÚÎ
+g
+java:S1128"ERemove this unused import 'javax.print.attribute.SetOfIntegerSyntax'.(Úƒäóıÿÿÿÿ8¿ˆ›ÉÊ.
+U	java:S106	"9Replace this use of System.out or System.err by a logger.(ñÍï8¿ˆ›ÉÊ.
+u
+java:S4144"SUpdate this method so that its implementation is not identical to "play" on line 8.(ÀÊ¶÷ÿÿÿÿÿ8õƒ¤ÉÊ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ñÍï8ÉÓœÉÊ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(³»öÎ8‰ü›ÉÊ.
+Y
+java:S1128"7Remove this unused import 'javax.sound.midi.Soundbank'.(µÊøÿÿÿÿ8¿ˆ›ÉÊ.

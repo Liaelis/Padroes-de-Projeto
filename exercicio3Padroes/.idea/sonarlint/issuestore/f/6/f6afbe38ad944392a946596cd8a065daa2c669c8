@@ -1,0 +1,12 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÉŞİøÿÿÿÿ8á“É¼É.
+S
+java:S1854"6Remove this useless assignment to local variable "p6".(¡Ö¹8ÿ¸¿¼É.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÍëŞÓúÿÿÿÿ
+D
+java:S1481"'Remove this unused "p6" local variable.(¡Ö¹8ğ™À¼É.
+C
+java:S1481"'Remove this unused "c3" local variable.(ˆ†ä8á•Ã¼É.
+R
+java:S1854"6Remove this useless assignment to local variable "c3".(ˆ†ä8Ì®Â¼É.
+X	java:S125"<This block of commented-out lines of code should be removed.(®Í†¥8Éò¼É.

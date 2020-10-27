@@ -1,6 +1,6 @@
 
-o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œß–Øıÿÿÿÿ8”ËÕÓÆ.
 {	java:S115&"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(İ÷ÿÇúÿÿÿÿ8«ŞìÔÆ.
-r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š±êûÿÿÿÿ8±˜àÓÆ.
-u	java:S116	"ZRename this field "movimentaÃ§Ã£os" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ğ„S8‡ËßĞÆ.
 o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š±êûÿÿÿÿ8úÜßÓÆ.
+u	java:S116	"ZRename this field "movimentaÃ§Ã£os" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ğ„S8‡ËßĞÆ.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š±êûÿÿÿÿ8±˜àÓÆ.
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œß–Øıÿÿÿÿ8”ËÕÓÆ.

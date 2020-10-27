@@ -1,0 +1,14 @@
+
+R
+java:S2446;"0"notify" may not wake up the appropriate thread.(ëò‚ÿúÿÿÿÿ8Úú¢ŒÊ.
+\
+java:S2274-":Remove this call to "wait" or move it into a "while" loop.(ƒÛÇııÿÿÿÿ8Úú¢ŒÊ.
+[
+java:S33984"9Move this method into "ConnectionProxyInvocationHandler".(Ã¸ä×ıÿÿÿÿ8òÑáÊ.
+j
+java:S1128"HRemove this unused import 'java.lang.reflect.InvocationTargetException'.(è¾†„øÿÿÿÿ8”·ÚŒÊ.
+
+java:S1488P"_Immediately return this expression instead of assigning it to the temporary variable "retorno".(©¨ë¤øÿÿÿÿ8îªÙÊ.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ë¸¼øÿÿÿÿ
+N
+java:S21756",A "List<Connection>" cannot contain a "int".(ö‡¢ÿÿÿÿÿ8ª££ŒÊ.

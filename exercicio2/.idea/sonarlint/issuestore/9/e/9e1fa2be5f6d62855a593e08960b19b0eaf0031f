@@ -1,19 +1,19 @@
 
 Q
 java:S3740V"/Provide the parametrized type for this generic.(Óàßáüÿÿÿÿ8åş ›È.
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¢€ÇŞ
-Q
-java:S3740]"/Provide the parametrized type for this generic.(¤È¡•øÿÿÿÿ8’æ©›È.
-
-java:S1149/"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ç¤ò‚úÿÿÿÿ8Ù£‰È.
-Q
-java:S37404"/Provide the parametrized type for this generic.(Íƒá½ûÿÿÿÿ8º‘È.
-U	java:S106k"9Replace this use of System.out or System.err by a logger.(ªÉ¸8áÚÂ È.
 a
 java:S1128"DRemove this unused import 'javax.print.attribute.standard.NumberUp'.(÷Åß½8÷ÏšÈ.
-Q
-java:S3740"/Provide the parametrized type for this generic.(ŞÁ­ûÿÿÿÿ8ÄŠà™È.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¢€ÇŞ
+
+java:S1149/"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ç¤ò‚úÿÿÿÿ8Ù£‰È.
 t
 java:S3776/"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ç¤ò‚úÿÿÿÿ8–°Í¡È.
+Q
+java:S3740]"/Provide the parametrized type for this generic.(¤È¡•øÿÿÿÿ8’æ©›È.
+Q
+java:S3740"/Provide the parametrized type for this generic.(ŞÁ­ûÿÿÿÿ8ÄŠà™È.
+U	java:S106k"9Replace this use of System.out or System.err by a logger.(ªÉ¸8áÚÂ È.
 |
 java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰8ãÇÖ¡È.
+Q
+java:S37404"/Provide the parametrized type for this generic.(Íƒá½ûÿÿÿÿ8º‘È.
